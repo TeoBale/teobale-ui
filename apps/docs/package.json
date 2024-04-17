@@ -12,6 +12,7 @@
     "build-storybook": "cross-env NODE_OPTIONS='--max-old-space-size=4096' STORYBOOK_BASE_PATH='' storybook build --output-dir ./../../public"
   },
   "dependencies": {
+    "@teobale/ui": "0.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
