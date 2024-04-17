@@ -1,0 +1,15 @@
+{
+  "name": "@teobale/tsconfig",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "files": [
+    "base.json",
+    "node14.json",
+    "react-library.json"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
