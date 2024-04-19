@@ -1,4 +1,4 @@
-# TeoBale UI
+![TeoBale UI](https://github.com/TeoBale/teobale-ui/blob/main/assets/teobaleui-banner.png)
 
 This is my personal web component library that takes inspiration from Material Design, Shadcn UI, Vercel, Material Tailwind and other popular libraries in order to create a single library that reflects my needs
 
